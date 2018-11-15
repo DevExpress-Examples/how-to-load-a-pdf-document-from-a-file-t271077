@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/LoadFromFile/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/LoadFromFile/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/LoadFromFile/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/LoadFromFile/MainWindow.xaml))
+<!-- default file list end -->
 # How to load a PDF document from a file
 
 
