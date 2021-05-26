@@ -4,16 +4,6 @@
 * [MainWindow.xaml](./CS/LoadFromFile/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/LoadFromFile/MainWindow.xaml))
 * [MainWindow.xaml.cs](./CS/LoadFromFile/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/LoadFromFile/MainWindow.xaml.vb))
 <!-- default file list end -->
-# How to load a PDF document from a file
+# How to Load a PDF Document from a File
 
-
-<p>The following example illustrates how to load an existing PDF file into the PdfViewer control at runtime using the <a href="https://documentation.devexpress.com/#WPF/DevExpressXpfDocumentViewerDocumentViewerControl_OpenDocumenttopic">OpenDocument</a> method. To learn more on supported ways to load data, refer to the <a href="https://documentation.devexpress.com/#WPF/CustomDocument114332">Loading a Document</a> help topic.</p>
-
-
-<h3>Description</h3>
-
-To do this, call the <a href="http://larix/ReferenceBrowserMain_15_1/LoadItem.aspx?Member=M%3aDevExpress.Xpf.DocumentViewer.DocumentViewerControl.OpenDocument(System.String)&amp;Template=MemberMethodTopic">DocumentViewerControl.OpenDocument</a> method with a specified file path.
-
-<br/>
-
-
+<p>This example illustrates how to use the <a href="https://docs.devexpress.com/WPF/DevExpress.Xpf.PdfViewer.PdfViewerControl.OpenDocument(System.String)">PdfViewerControl.OpenDocument</a> method to load a PDF file into the PDF Viewer. Refer to this help topic for details: <a href="https://docs.devexpress.com/WPF/400981/controls-and-libraries/pdf-viewer/examples/file-operations/how-to-load-a-pdf-document-from-a-file">Load a PDF Document from a File</a>.</p>
